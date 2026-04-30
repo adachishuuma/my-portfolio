@@ -25,9 +25,9 @@ AIや強化学習、業務効率化に興味があります。
 
 ---
 
-### ② プロジェクト名 
+### ② プロジェクト名 AIProgramming
 - GitHub: https://github.com/QuijadaNelson/AIProgramming
-- 概要：
+- 概要：強化学習を使った学習するRPGの敵との戦いシミュレータを作った。敵のステータスや状況説明政策にLLMを使用した。強化学習とLLM（APIの使い方など）の学習を目的としている。
 - 使用技術：Python
 
 ---
