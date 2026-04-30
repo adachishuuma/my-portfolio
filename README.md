@@ -11,6 +11,7 @@ AIや強化学習、業務効率化に興味があります。
 ## スキル
 - Python
 - JavaScript（少し）
+- java(少し)
 - Git / GitHub
 - SQL（少し）
 
