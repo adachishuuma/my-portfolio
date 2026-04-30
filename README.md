@@ -1,5 +1,5 @@
 # my-portfolio
-# ポートフォリオ（あなたの名前）
+# ポートフォリオ（足立　柊真）
 
 ## 自己紹介
 名古屋工業大学工学部創造工学教育課程知能情報分野の４年です。  
@@ -25,8 +25,8 @@ AIや強化学習、業務効率化に興味があります。
 
 ---
 
-### ② プロジェクト名 AIProgramming
-- GitHub: https://github.com/QuijadaNelson/AIProgramming
+### ② プロジェクト名 簡易注文システム
+- GitHub: https://github.com/haruuusame/OrderSystem
 - 概要：強化学習を使った学習するRPGの敵との戦いシミュレータを作った。敵のステータスや状況説明政策にLLMを使用した。強化学習とLLM（APIの使い方など）の学習を目的としている。
 - 使用技術：Python
 
